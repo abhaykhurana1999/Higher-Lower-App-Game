@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="Content">Can you guess the Number I am thinking!!</string>
+</resources>
